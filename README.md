@@ -3,54 +3,126 @@
 
 ---
 
+# 👨‍💻 About Me
+
+```bash
+> Name        : Abhinav Pandey
+> Role        : AI Engineer
+> University  : VIT
+> Interests   : AI • Full Stack • Machine Learning
+> Currently   : Building PulseWire
+> Learning    : AWS • Deep Learning • System Design
+```
+
+---
+
 # 🚀 Featured Projects
 
-### 🌍 PulseWire
+## 🌍 PulseWire
 
-AI-powered news platform with authentication, dashboard, MongoDB and Gemini AI.
+AI-powered News Platform featuring:
 
-### 🧠 Deep Learning Research
+- 🔐 JWT Authentication
+- 📰 News Publishing
+- 🤖 AI News Verification
+- 📊 Dashboard
+- ☁️ Cloudinary Image Upload
+- 🍃 MongoDB Atlas
 
-Medical imaging and retinal vessel segmentation using PyTorch.
+**Tech Stack**
 
-### 🌾 Startup Projects
+```
+React • TypeScript • Node.js • Express • MongoDB • Gemini AI
+```
 
-Building AI-powered platforms for farmers and workers.
+---
+
+## 🧠 Medical AI Research
+
+Deep Learning models for:
+
+- Retinal Vessel Segmentation
+- Medical Image Analysis
+- Low-Light Image Enhancement
+
+**Tech Stack**
+
+```
+PyTorch • OpenCV • NumPy
+```
+
+---
+
+## 🌾 Startup Projects
+
+Working on AI-powered platforms focused on:
+
+- Farmers
+- Workers
 
 ---
 
 # 🛠 Tech Stack
 
-**Languages**
+### Languages
 
-`Java` `Python` `JavaScript` `TypeScript`
+- Java
+- Python
+- JavaScript
+- TypeScript
 
-**Frontend**
+### Frontend
 
-`React`
-`Vite`
-`Tailwind CSS`
+- React
+- Vite
+- Tailwind CSS
 
-**Backend**
+### Backend
 
-`Node.js`
-`Express`
-`MongoDB`
+- Node.js
+- Express.js
+- MongoDB
+- JWT
 
-**AI / ML**
+### AI / ML
 
-`PyTorch`
-`OpenCV`
-`NumPy`
+- PyTorch
+- OpenCV
+- NumPy
+- Gemini AI
 
-**Cloud**
+### Cloud
 
-`AWS`
-`Cloudinary`
+- AWS
+- Cloudinary
 
 ---
 
-# 📫 Connect
+# 🏆 Achievements
+
+- 🥇 Oracle Java Certified
+- 🚀 Built PulseWire
+- 🤖 AI & Machine Learning Enthusiast
+- 💻 Full Stack Developer
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Launch PulseWire
+- 🔄 Publish AI Research
+- 🔄 Earn AWS Certification
+- 🔄 Contribute to Open Source
+- 🔄 Build More AI Applications
+
+---
+
+# 📫 Connect With Me
 
 - GitHub: https://github.com/abhinav28ai
-- LinkedIn: *(Add your LinkedIn URL later)*
+
+*(Add your LinkedIn profile here later.)*
+
+---
+
+<div align="center">
