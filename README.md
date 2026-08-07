@@ -15,12 +15,14 @@
 > Name        : Abhinav Pandey
 > Role        : AI Engineer
 > University  : VIT
+
 > Interests   : Artificial Intelligence
                 Full Stack Development
                 Machine Learning
                 System Design
 
 > Currently   : Building PulseWire
+
 > Learning    : AWS | Deep Learning | System Design
 ```
 
@@ -32,7 +34,7 @@
 
 AI-powered News Platform with Smart News Verification.
 
-### ✨ Features
+### Features
 
 - 🔐 JWT Authentication
 - 📰 News Publishing
@@ -82,7 +84,7 @@ AI-powered News Platform with Smart News Verification.
 # 🏆 Achievements
 
 - 🥇 AI Hackathon Finalist
-- 🏆 Top 60 – IIT Bombay NEC
+- 🏆 Top 60 - IIT Bombay NEC
 - 🚀 Building AI-powered Products
 - 💡 Passionate about solving real-world problems using AI
 
@@ -93,7 +95,7 @@ AI-powered News Platform with Smart News Verification.
 - 🌍 PulseWire
 - 🤖 AI News Detection
 - 🧠 Deep Learning Research
-- ☁️ AWS Cloud
+- ☁ AWS Cloud
 - ⚡ Full Stack Development
 
 ---
@@ -107,6 +109,8 @@ AI-powered News Platform with Smart News Verification.
 <div align="center">
 
 ---
+
+<div align="center">
 
 <div align="center">
 
