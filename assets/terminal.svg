@@ -1,29 +1,101 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="120">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220">
 
-<rect width="900" height="120" rx="12" fill="#0d1117"/>
+<defs>
+  <linearGradient id="bg" x1="0" x2="1">
+    <stop offset="0%" stop-color="#0d1117"/>
+    <stop offset="100%" stop-color="#161b22"/>
+  </linearGradient>
 
-<circle cx="30" cy="25" r="7" fill="#ff5f56"/>
-<circle cx="55" cy="25" r="7" fill="#ffbd2e"/>
-<circle cx="80" cy="25" r="7" fill="#27c93f"/>
+  <linearGradient id="line" x1="0" x2="1">
+    <stop offset="0%" stop-color="#58a6ff"/>
+    <stop offset="100%" stop-color="#39d353"/>
+  </linearGradient>
+</defs>
 
-<text x="30"
-      y="70"
+<rect width="900" height="220" rx="18" fill="url(#bg)"/>
+
+<!-- Window buttons -->
+
+<circle cx="32" cy="28" r="8" fill="#ff5f56"/>
+<circle cx="58" cy="28" r="8" fill="#ffbd2e"/>
+<circle cx="84" cy="28" r="8" fill="#27c93f"/>
+
+<!-- Title -->
+
+<text x="450"
+      y="34"
+      text-anchor="middle"
+      fill="#8b949e"
+      font-size="16"
+      font-family="monospace">
+
+terminal
+
+</text>
+
+<!-- Prompt -->
+
+<text x="40"
+      y="82"
       fill="#58a6ff"
-      font-size="26"
+      font-size="24"
       font-family="monospace">
 
-$ booting Abhinav28AI...
+abhinav@github:~$
 
 </text>
 
-<text x="30"
-      y="102"
+<!-- Command -->
+
+<text x="265"
+      y="82"
       fill="#39d353"
-      font-size="22"
+      font-size="24"
       font-family="monospace">
 
-████████████████████████████████████████ 100%
+whoami
 
 </text>
+
+<!-- Output -->
+
+<text x="40"
+      y="128"
+      fill="#ffffff"
+      font-size="34"
+      font-family="monospace"
+      font-weight="bold">
+
+Abhinav Pandey
+
+</text>
+
+<text x="40"
+      y="162"
+      fill="#58a6ff"
+      font-size="20"
+      font-family="monospace">
+
+AI Engineer • Full Stack Developer • ML Researcher
+
+</text>
+
+<text x="40"
+      y="192"
+      fill="#8b949e"
+      font-size="17"
+      font-family="monospace">
+
+Building AI • React • Node.js • MongoDB • AWS • Gemini
+
+</text>
+
+<rect
+    x="38"
+    y="205"
+    width="824"
+    height="3"
+    fill="url(#line)"
+/>
 
 </svg>
