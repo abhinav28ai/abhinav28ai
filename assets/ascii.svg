@@ -1,6 +1,999 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="350" height="360">
-<rect width="350" height="360" rx="15" fill="#161b22"/>
-<text x="40" y="180" fill="#58a6ff" font-size="22" font-family="monospace">
-ASCII Portrait
+<svg xmlns="http://www.w3.org/2000/svg"
+width="760"
+height="1086"
+viewBox="0 0 760 1086">
+
+<rect width="100%" height="100%" fill="#0d1117"/>
+
+<style>
+text {
+font-family: monospace;
+font-size:11px;
+fill:#39d353;
+}
+
+.cursor {
+animation: blink 1s infinite;
+}
+
+@keyframes blink {
+50% { opacity:0; }
+}
+</style>
+
+<text x="10" y="20" opacity="0">
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+<animate
+attributeName="opacity"
+begin="0s"
+dur="0.05s"
+fill="freeze"
+from="0"
+to="1"/>
 </text>
+
+<text x="10" y="32" opacity="0">
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+<animate
+attributeName="opacity"
+begin="0.03s"
+dur="0.05s"
+fill="freeze"
+from="0"
+to="1"/>
+</text>
+
+<text x="10" y="44" opacity="0">
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+<animate
+attributeName="opacity"
+begin="0.06s"
+dur="0.05s"
+fill="freeze"
+from="0"
+to="1"/>
+</text>
+
+<text x="10" y="56" opacity="0">
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+<animate
+attributeName="opacity"
+begin="0.09s"
+dur="0.05s"
+fill="freeze"
+from="0"
+to="1"/>
+</text>
+
+<text x="10" y="68" opacity="0">
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+<animate
+attributeName="opacity"
+begin="0.12s"
+dur="0.05s"
+fill="freeze"
+from="0"
+to="1"/>
+</text>
+
+<text x="10" y="80" opacity="0">
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+<animate
+attributeName="opacity"
+begin="0.15s"
+dur="0.05s"
+fill="freeze"
+from="0"
+to="1"/>
+</text>
+
+<text x="10" y="92" opacity="0">
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+<animate
+attributeName="opacity"
+begin="0.18s"
+dur="0.05s"
+fill="freeze"
+from="0"
+to="1"/>
+</text>
+
+<text x="10" y="104" opacity="0">
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+<animate
+attributeName="opacity"
+begin="0.21s"
+dur="0.05s"
+fill="freeze"
+from="0"
+to="1"/>
+</text>
+
+<text x="10" y="116" opacity="0">
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+<animate
+attributeName="opacity"
+begin="0.24s"
+dur="0.05s"
+fill="freeze"
+from="0"
+to="1"/>
+</text>
+
+<text x="10" y="128" opacity="0">
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+<animate
+attributeName="opacity"
+begin="0.27s"
+dur="0.05s"
+fill="freeze"
+from="0"
+to="1"/>
+</text>
+
+<text x="10" y="140" opacity="0">
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+<animate
+attributeName="opacity"
+begin="0.30000000000000004s"
+dur="0.05s"
+fill="freeze"
+from="0"
+to="1"/>
+</text>
+
+<text x="10" y="152" opacity="0">
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+<animate
+attributeName="opacity"
+begin="0.33000000000000007s"
+dur="0.05s"
+fill="freeze"
+from="0"
+to="1"/>
+</text>
+
+<text x="10" y="164" opacity="0">
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+<animate
+attributeName="opacity"
+begin="0.3600000000000001s"
+dur="0.05s"
+fill="freeze"
+from="0"
+to="1"/>
+</text>
+
+<text x="10" y="176" opacity="0">
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+<animate
+attributeName="opacity"
+begin="0.3900000000000001s"
+dur="0.05s"
+fill="freeze"
+from="0"
+to="1"/>
+</text>
+
+<text x="10" y="188" opacity="0">
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+<animate
+attributeName="opacity"
+begin="0.42000000000000015s"
+dur="0.05s"
+fill="freeze"
+from="0"
+to="1"/>
+</text>
+
+<text x="10" y="200" opacity="0">
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%####%%%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+<animate
+attributeName="opacity"
+begin="0.4500000000000002s"
+dur="0.05s"
+fill="freeze"
+from="0"
+to="1"/>
+</text>
+
+<text x="10" y="212" opacity="0">
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%#+=--===+=--==*#%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+<animate
+attributeName="opacity"
+begin="0.4800000000000002s"
+dur="0.05s"
+fill="freeze"
+from="0"
+to="1"/>
+</text>
+
+<text x="10" y="224" opacity="0">
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#+-:``:::=+=:.`::-=*%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+<animate
+attributeName="opacity"
+begin="0.5100000000000002s"
+dur="0.05s"
+fill="freeze"
+from="0"
+to="1"/>
+</text>
+
+<text x="10" y="236" opacity="0">
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#-::```.`::=+=:.--=-=+%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+<animate
+attributeName="opacity"
+begin="0.5400000000000003s"
+dur="0.05s"
+fill="freeze"
+from="0"
+to="1"/>
+</text>
+
+<text x="10" y="248" opacity="0">
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%:.:```. . .:--. `:---=*%@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+<animate
+attributeName="opacity"
+begin="0.5700000000000003s"
+dur="0.05s"
+fill="freeze"
+from="0"
+to="1"/>
+</text>
+
+<text x="10" y="260" opacity="0">
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%+  `.... ..   `  `::---=*%@@@@@@@@@@@@@@@@@@@@@@@@@@@
+<animate
+attributeName="opacity"
+begin="0.6000000000000003s"
+dur="0.05s"
+fill="freeze"
+from="0"
+to="1"/>
+</text>
+
+<text x="10" y="272" opacity="0">
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%:..`.....```. `...```:-:-#@@@@@@@@@@@@@@@@@@@@@@@@@@@
+<animate
+attributeName="opacity"
+begin="0.6300000000000003s"
+dur="0.05s"
+fill="freeze"
+from="0"
+to="1"/>
+</text>
+
+<text x="10" y="284" opacity="0">
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%+.. ....`::::-==-:```:-::=%@@@@@@@@@@@@@@@@@@@@@@@@@@
+<animate
+attributeName="opacity"
+begin="0.6600000000000004s"
+dur="0.05s"
+fill="freeze"
+from="0"
+to="1"/>
+</text>
+
+<text x="10" y="296" opacity="0">
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%` :-`````:=++++=-:```::`-%@@@@@@@@@@@@@@@@@@@@@@@@@@
+<animate
+attributeName="opacity"
+begin="0.6900000000000004s"
+dur="0.05s"
+fill="freeze"
+from="0"
+to="1"/>
+</text>
+
+<text x="10" y="308" opacity="0">
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%- =-`````:==-```:=+``+#*#%@@@@@@@@@@@@@@@@@@@@@@@@@@
+<animate
+attributeName="opacity"
+begin="0.7200000000000004s"
+dur="0.05s"
+fill="freeze"
+from="0"
+to="1"/>
+</text>
+
+<text x="10" y="320" opacity="0">
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@+:`=-:::::-+#=``-=**`-%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+<animate
+attributeName="opacity"
+begin="0.7500000000000004s"
+dur="0.05s"
+fill="freeze"
+from="0"
+to="1"/>
+</text>
+
+<text x="10" y="332" opacity="0">
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@+:-+++**+=+#%#+++*#*--#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+<animate
+attributeName="opacity"
+begin="0.7800000000000005s"
+dur="0.05s"
+fill="freeze"
+from="0"
+to="1"/>
+</text>
+
+<text x="10" y="344" opacity="0">
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#::=++**++=*########:=%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+<animate
+attributeName="opacity"
+begin="0.8100000000000005s"
+dur="0.05s"
+fill="freeze"
+from="0"
+to="1"/>
+</text>
+
+<text x="10" y="356" opacity="0">
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%*`:-=-::..::=+=+*#+=*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+<animate
+attributeName="opacity"
+begin="0.8400000000000005s"
+dur="0.05s"
+fill="freeze"
+from="0"
+to="1"/>
+</text>
+
+<text x="10" y="368" opacity="0">
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@=``-. ``:-:``.-++-#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+<animate
+attributeName="opacity"
+begin="0.8700000000000006s"
+dur="0.05s"
+fill="freeze"
+from="0"
+to="1"/>
+</text>
+
+<text x="10" y="380" opacity="0">
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#`.`.``:==*+:`=-:*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+<animate
+attributeName="opacity"
+begin="0.9000000000000006s"
+dur="0.05s"
+fill="freeze"
+from="0"
+to="1"/>
+</text>
+
+<text x="10" y="392" opacity="0">
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%- ..`..```---:`+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+<animate
+attributeName="opacity"
+begin="0.9300000000000006s"
+dur="0.05s"
+fill="freeze"
+from="0"
+to="1"/>
+</text>
+
+<text x="10" y="404" opacity="0">
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%#*-.   ..```:`..*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+<animate
+attributeName="opacity"
+begin="0.9600000000000006s"
+dur="0.05s"
+fill="freeze"
+from="0"
+to="1"/>
+</text>
+
+<text x="10" y="416" opacity="0">
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%*+::`.         .=#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+<animate
+attributeName="opacity"
+begin="0.9900000000000007s"
+dur="0.05s"
+fill="freeze"
+from="0"
+to="1"/>
+</text>
+
+<text x="10" y="428" opacity="0">
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%#+++`.```..  .`:-=+=#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+<animate
+attributeName="opacity"
+begin="1.0200000000000007s"
+dur="0.05s"
+fill="freeze"
+from="0"
+to="1"/>
+</text>
+
+<text x="10" y="440" opacity="0">
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%#**+==+++-.```````-====-=##%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+<animate
+attributeName="opacity"
+begin="1.0500000000000007s"
+dur="0.05s"
+fill="freeze"
+from="0"
+to="1"/>
+</text>
+
+<text x="10" y="452" opacity="0">
+@@@@@@@@@@@@@@@@@@@@@@@@%%%*++====-+++++:.`````:----:-#####%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+<animate
+attributeName="opacity"
+begin="1.0800000000000007s"
+dur="0.05s"
+fill="freeze"
+from="0"
+to="1"/>
+</text>
+
+<text x="10" y="464" opacity="0">
+@@@@@@@@@@@@@@@@@@@%%##***+++++++=-**+==+-.``````::`-*%###***#%@@@@@@@@@@@@@@@@@@@@@@@@@@@
+<animate
+attributeName="opacity"
+begin="1.1100000000000008s"
+dur="0.05s"
+fill="freeze"
+from="0"
+to="1"/>
+</text>
+
+<text x="10" y="476" opacity="0">
+@@@@@@@@@@@@@@@@@%#*+***********++-+#***+=-````````-*%####+#+=+*#%@@@@@@@@@@@@@@@@@@@@@@@@
+<animate
+attributeName="opacity"
+begin="1.1400000000000008s"
+dur="0.05s"
+fill="freeze"
+from="0"
+to="1"/>
+</text>
+
+<text x="10" y="488" opacity="0">
+@@@@@@@@@@@@@@@@%+=****+#**#****++-=#*+-:`-=-:```-==-+####**#+-=++*#%@@@@@@@@@@@@@@@@@@@@@
+<animate
+attributeName="opacity"
+begin="1.1700000000000008s"
+dur="0.05s"
+fill="freeze"
+from="0"
+to="1"/>
+</text>
+
+<text x="10" y="500" opacity="0">
+@@@@@@@@@@@@@@@%+--+#+++=#***+**++=---::--::==:-++=--:-=*#****=-=+++*#@@@@@@@@@@@@@@@@@@@@
+<animate
+attributeName="opacity"
+begin="1.2000000000000008s"
+dur="0.05s"
+fill="freeze"
+from="0"
+to="1"/>
+</text>
+
+<text x="10" y="512" opacity="0">
+@@@@@@@@@@@@@@@*===+#*++-*#++*+#***==+=-=*+===*#*+++++=-=#***++=-==****%@@@@@@@@@@@@@@@@@@
+<animate
+attributeName="opacity"
+begin="1.2300000000000009s"
+dur="0.05s"
+fill="freeze"
+from="0"
+to="1"/>
+</text>
+
+<text x="10" y="524" opacity="0">
+@@@@@@@@@@@@@@#=--+*=#*=:*#++**+#*##*#+=****==%#+++++**++**#*++=-=-+***#@@@@@@@@@@@@@@@@@@
+<animate
+attributeName="opacity"
+begin="1.260000000000001s"
+dur="0.05s"
+fill="freeze"
+from="0"
+to="1"/>
+</text>
+
+<text x="10" y="536" opacity="0">
+@@@@@@@@@@@@@%=---*+-+#=:*#+*+#++#*###+=**=+++%%#*++++*++****++===-+=**+%@@@@@@@@@@@@@@@@@
+<animate
+attributeName="opacity"
+begin="1.290000000000001s"
+dur="0.05s"
+fill="freeze"
+from="0"
+to="1"/>
+</text>
+
+<text x="10" y="548" opacity="0">
+@@@@@@@@@@@@@#--:+#=-+*-`*#=++**=+*###++*#+-=+%##*=+++*++***#*++=-=+++*+%@@@@@@@@@@@@@@@@@
+<animate
+attributeName="opacity"
+begin="1.320000000000001s"
+dur="0.05s"
+fill="freeze"
+from="0"
+to="1"/>
+</text>
+
+<text x="10" y="560" opacity="0">
+@@@@@@@@@@@@@+--:*#==+=-`**=+*=+=-*%%#++##+--=%#*+=+=+++++******=-+++=*+*@@@@@@@@@@@@@@@@@
+<animate
+attributeName="opacity"
+begin="1.350000000000001s"
+dur="0.05s"
+fill="freeze"
+from="0"
+to="1"/>
+</text>
+
+<text x="10" y="572" opacity="0">
+@@@@@@@@@@@@%=---#*=++::`**=*#===:+%#*+*##+-:+%#*+=+++++++==+***=-*+--*=+@@@@@@@@@@@@@@@@@
+<animate
+attributeName="opacity"
+begin="1.380000000000001s"
+dur="0.05s"
+fill="freeze"
+from="0"
+to="1"/>
+</text>
+
+<text x="10" y="584" opacity="0">
+@@@@@@@@@@@@*=--=#*=++`::+*=*#+-=:-%#*+*#*+-:*##*=-=++=+**=:=*#*++*-:=*=+@@@@@@@@@@@@@@@@@
+<animate
+attributeName="opacity"
+begin="1.410000000000001s"
+dur="0.05s"
+fill="freeze"
+from="0"
+to="1"/>
+</text>
+
+<text x="10" y="596" opacity="0">
+@@@@@@@@@@@%==--+%*+*=``:-++##*--:-##**##*+-:*##*+-=+==+**+::*#++*=`-++=+@@@@@@@@@@@@@@@@@
+<animate
+attributeName="opacity"
+begin="1.440000000000001s"
+dur="0.05s"
+fill="freeze"
+from="0"
+to="1"/>
+</text>
+
+<text x="10" y="608" opacity="0">
+@@@@@@@@@@@*==--+%*=+-.`:=++##+-::-*#*###*=-:+%##+-===+**#*=-+#*+#::-*=+*@@@@@@@@@@@@@@@@@
+<animate
+attributeName="opacity"
+begin="1.470000000000001s"
+dur="0.05s"
+fill="freeze"
+from="0"
+to="1"/>
+</text>
+
+<text x="10" y="620" opacity="0">
+@@@@@@@@@@%===-=*#*++:.`:=**##+-::-+**##*+=-:+%##+=--+++***#**####:-++=*#@@@@@@@@@@@@@@@@@
+<animate
+attributeName="opacity"
+begin="1.500000000000001s"
+dur="0.05s"
+fill="freeze"
+from="0"
+to="1"/>
+</text>
+
+<text x="10" y="632" opacity="0">
+@@@@@@@@@@*-+=-+##*==````=*###=-:-=**###*==::+##*+==---=++****###*:-+==*#@@@@@@@@@@@@@@@@@
+<animate
+attributeName="opacity"
+begin="1.5300000000000011s"
+dur="0.05s"
+fill="freeze"
+from="0"
+to="1"/>
+</text>
+
+<text x="10" y="644" opacity="0">
+@@@@@@@@@%=====+##+=-.`.:=+##*=-:-=*####*+=-:*###+---==-=+*###%#%+:=+-+*#@@@@@@@@@@@@@@@@@
+<animate
+attributeName="opacity"
+begin="1.5600000000000012s"
+dur="0.05s"
+fill="freeze"
+from="0"
+to="1"/>
+</text>
+
+<text x="10" y="656" opacity="0">
+@@@@@@@@@*-+===+##+-:.`.-++##*=-::+*###**+---####*==-===++++=+*#%+:+--+*#%@@@@@@@@@@@@@@@@
+<animate
+attributeName="opacity"
+begin="1.5900000000000012s"
+dur="0.05s"
+fill="freeze"
+from="0"
+to="1"/>
+</text>
+
+<text x="10" y="668" opacity="0">
+@@@@@@@@%==+==++#%=-`..`-=*##*=---+*###**+=-:##****+++++==----+#%===:=+**%@@@@@@@@@@@@@@@@
+<animate
+attributeName="opacity"
+begin="1.6200000000000012s"
+dur="0.05s"
+fill="freeze"
+from="0"
+to="1"/>
+</text>
+
+<text x="10" y="680" opacity="0">
+@@@@@@@@*====+***#=:`..:-+*##+---=*####*+===:*#****+=====--==+*##-=::=+#*%@@@@@@@@@@@@@@@@
+<animate
+attributeName="opacity"
+begin="1.6500000000000012s"
+dur="0.05s"
+fill="freeze"
+from="0"
+to="1"/>
+</text>
+
+<text x="10" y="692" opacity="0">
+@@@@@@@%+====+**##-`...:-=*#*=::-=*###*+===--#%##+#+=+++++++=+###=-:-=+*+%@@@@@@@@@@@@@@@@
+<animate
+attributeName="opacity"
+begin="1.6800000000000013s"
+dur="0.05s"
+fill="freeze"
+from="0"
+to="1"/>
+</text>
+
+<text x="10" y="704" opacity="0">
+@@@@@@@%===-=****#-`.``:-+***=:::+###*++++++-#%#*+##+++++*****###-::-=**+%@@@@@@@@@@@@@@@@
+<animate
+attributeName="opacity"
+begin="1.7100000000000013s"
+dur="0.05s"
+fill="freeze"
+from="0"
+to="1"/>
+</text>
+
+<text x="10" y="716" opacity="0">
+@@@@@@@*===-+*##**=.```:-=*++=---+###*++++++-##**=*%+==+==+++*#**:`:==**+%@@@@@@@@@@@@@@@@
+<animate
+attributeName="opacity"
+begin="1.7400000000000013s"
+dur="0.05s"
+fill="freeze"
+from="0"
+to="1"/>
+</text>
+
+<text x="10" y="728" opacity="0">
+@@@@@@%+===-+##***= :::-:=*++=:=+*###+=-====-##*+:+#%#+----=++##+``-=+*++%@@@@@@@@@@@@@@@@
+<animate
+attributeName="opacity"
+begin="1.7700000000000014s"
+dur="0.05s"
+fill="freeze"
+from="0"
+to="1"/>
+</text>
+
+<text x="10" y="740" opacity="0">
+@@@@@@%=-=-:+*###*=.:---:=*=---=*#%#*+=-++==-##*+::+#%*==-:+#+##+``-=+*++%@@@@@@@@@@@@@@@@
+<animate
+attributeName="opacity"
+begin="1.8000000000000014s"
+dur="0.05s"
+fill="freeze"
+from="0"
+to="1"/>
+</text>
+
+<text x="10" y="752" opacity="0">
+@@@@@@#-:=--+**###=`--=-:=+=--=+##%#*+=-=*+=-##*+=:-*%%+-=:-+*##=`:==++++%@@@@@@@@@@@@@@@@
+<animate
+attributeName="opacity"
+begin="1.8300000000000014s"
+dur="0.05s"
+fill="freeze"
+from="0"
+to="1"/>
+</text>
+
+<text x="10" y="764" opacity="0">
+@@@@@@#=-+=-+*#**+=:-==-:=+==++####*+++++++==###*=-:-*%%*+=-=+*#=:-==++**#@@@@@@@@@@@@@@@@
+<animate
+attributeName="opacity"
+begin="1.8600000000000014s"
+dur="0.05s"
+fill="freeze"
+from="0"
+to="1"/>
+</text>
+
+<text x="10" y="776" opacity="0">
+@@@@@@#++*#**##%##=:=+==--===+*####*++++++++=%##**+--=*%%#+=-=*#--==+*+**#@@@@@@@@@@@@@@@@
+<animate
+attributeName="opacity"
+begin="1.8900000000000015s"
+dur="0.05s"
+fill="freeze"
+from="0"
+to="1"/>
+</text>
+
+<text x="10" y="788" opacity="0">
+@@@@@@#---+##*##%%+-+*+=---=+*####**++*****+=%%#*+*+--=*%%%*+=+#--=-==+**#@@@@@@@@@@@@@@@@
+<animate
+attributeName="opacity"
+begin="1.9200000000000015s"
+dur="0.05s"
+fill="freeze"
+from="0"
+to="1"/>
+</text>
+
+<text x="10" y="800" opacity="0">
+@@@@@@%++++**#####+=**+==-=+*#####**++*#***++###*++*+=-=#%%%#++#====+**##*%@@@@@@@@@@@@@@@
+<animate
+attributeName="opacity"
+begin="1.9500000000000015s"
+dur="0.05s"
+fill="freeze"
+from="0"
+to="1"/>
+</text>
+
+<text x="10" y="812" opacity="0">
+@@@@@@%*+++*#*###%#*#*+++***#####*******+==-+#**++++++==+##*%#*#+*########%@@@@@@@@@@@@@@@
+<animate
+attributeName="opacity"
+begin="1.9800000000000015s"
+dur="0.05s"
+fill="freeze"
+from="0"
+to="1"/>
+</text>
+
+<text x="10" y="824" opacity="0">
+@@@@@@@@%#``:-====+**####*+#####***++*****+=####**++++===*#*+**#=+****##%#%@@@@@@@@@@@@@@@
+<animate
+attributeName="opacity"
+begin="2.0100000000000016s"
+dur="0.05s"
+fill="freeze"
+from="0"
+to="1"/>
+</text>
+
+<text x="10" y="836" opacity="0">
+@@@@@@@@@@+..``:-::*###**+*######**#*######+#####%%####+=+%#+=+#==+**#####@@@@@@@@@@@@@@@@
+<animate
+attributeName="opacity"
+begin="2.0400000000000014s"
+dur="0.05s"
+fill="freeze"
+from="0"
+to="1"/>
+</text>
+
+<text x="10" y="848" opacity="0">
+@@@@@@@@@@%:.`:-=-:++*++=========+=++*****+=++++==++*###**#%%*+*----==+*#%@@@@@@@@@@@@@@@@
+<animate
+attributeName="opacity"
+begin="2.070000000000001s"
+dur="0.05s"
+fill="freeze"
+from="0"
+to="1"/>
+</text>
+
+<text x="10" y="860" opacity="0">
+@@@@@@@@@@@*.`:-==:-:`..         .``::=++*=+**+++=++===+***#%%#+....``:*@@@@@@@@@@@@@@@@@@
+<animate
+attributeName="opacity"
+begin="2.100000000000001s"
+dur="0.05s"
+fill="freeze"
+from="0"
+to="1"/>
+</text>
+
+<text x="10" y="872" opacity="0">
+@@@@@@@@@@@@-.:-=+-:=` ........  ``   .``:`:--=--:----=======++=`.``:--#@@@@@@@@@@@@@@@@@@
+<animate
+attributeName="opacity"
+begin="2.130000000000001s"
+dur="0.05s"
+fill="freeze"
+from="0"
+to="1"/>
+</text>
+
+<text x="10" y="884" opacity="0">
+@@@@@@@@@@@@#.`:-+=`:. .````:``..:... `.     .` -     `    ..:==`.`::-=%@@@@@@@@@@@@@@@@@@
+<animate
+attributeName="opacity"
+begin="2.1600000000000006s"
+dur="0.05s"
+fill="freeze"
+from="0"
+to="1"/>
+</text>
+
+<text x="10" y="896" opacity="0">
+@@@@@@@@@@@@@+..-=+-: `-::::::::`:--:```````.`.`: ... :```::::++: `:--=%@@@@@@@@@@@@@@@@@@
+<animate
+attributeName="opacity"
+begin="2.1900000000000004s"
+dur="0.05s"
+fill="freeze"
+from="0"
+to="1"/>
+</text>
+
+<text x="10" y="908" opacity="0">
+@@@@@@@@@@@@@%:.:=+=`.==-=-=----:--=--:::``.`:::``:--:-=---:--=*- ``-=+@@@@@@@@@@@@@@@@@@@
+<animate
+attributeName="opacity"
+begin="2.22s"
+dur="0.05s"
+fill="freeze"
+from="0"
+to="1"/>
+</text>
+
+<text x="10" y="920" opacity="0">
+@@@@@@@@@@@@@@*```.`:=+=-======----:-=----:.`++=----======--==-+= .`:=*@@@@@@@@@@@@@@@@@@@
+<animate
+attributeName="opacity"
+begin="2.25s"
+dur="0.05s"
+fill="freeze"
+from="0"
+to="1"/>
+</text>
+
+<text x="10" y="932" opacity="0">
+@@@@@@@@@@@@@@%`  :==+++=++++++=====::==--:.`---::---==+++=++===+ .:-=#@@@@@@@@@@@@@@@@@@@
+<animate
+attributeName="opacity"
+begin="2.28s"
+dur="0.05s"
+fill="freeze"
+from="0"
+to="1"/>
+</text>
+
+<text x="10" y="944" opacity="0">
+@@@@@@@@@@@@@@@#:::-=++++++++++++++++=--=+-.-=-=::-=+++**+++++++- .:-=#@@@@@@@@@@@@@@@@@@@
+<animate
+attributeName="opacity"
+begin="2.3099999999999996s"
+dur="0.05s"
+fill="freeze"
+from="0"
+to="1"/>
+</text>
+
+<text x="10" y="956" opacity="0">
+@@@@@@@@@@@@@@@@#:`:-==+++****+++++++**+++=`+**+=-::-=***+++=-=-:.`-=+#@@@@@@@@@@@@@@@@@@@
+<animate
+attributeName="opacity"
+begin="2.3399999999999994s"
+dur="0.05s"
+fill="freeze"
+from="0"
+to="1"/>
+</text>
+
+<text x="10" y="968" opacity="0">
+@@@@@@@@@@@@@@@@@*``:--===++***#####******+:*###+===-:=****+=-=-:.:-=+#@@@@@@@@@@@@@@@@@@@
+<animate
+attributeName="opacity"
+begin="2.369999999999999s"
+dur="0.05s"
+fill="freeze"
+from="0"
+to="1"/>
+</text>
+
+<text x="10" y="980" opacity="0">
+@@@@@@@@@@@@@@@@@%:.:::-====++++==+++*++++=:+*#**=--:`:=++**=-=:-===+*%@@@@@@@@@@@@@@@@@@@
+<animate
+attributeName="opacity"
+begin="2.399999999999999s"
+dur="0.05s"
+fill="freeze"
+from="0"
+to="1"/>
+</text>
+
+<text x="10" y="992" opacity="0">
+@@@@@@@@@@@@@@@@@@=.``:====--===--::::::::``--=-+*+-:`:-=+*#*--.=*****%@@@@@@@@@@@@@@@@@@@
+<animate
+attributeName="opacity"
+begin="2.429999999999999s"
+dur="0.05s"
+fill="freeze"
+from="0"
+to="1"/>
+</text>
+
+<text x="10" y="1004" opacity="0">
+@@@@@@@@@@@@@@@@@@+...`:=+=+++*########*+=``:````-**=-:--=+*#*:`+**##*%@@@@@@@@@@@@@@@@@@@
+<animate
+attributeName="opacity"
+begin="2.4599999999999986s"
+dur="0.05s"
+fill="freeze"
+from="0"
+to="1"/>
+</text>
+
+<text x="10" y="1016" opacity="0">
+@@@@@@@@@@@@@@@@@@*....`-+=::-::::::--=++=:`::`:``:===-----=+#:`+*=+**#@@@@@@@@@@@@@@@@@@@
+<animate
+attributeName="opacity"
+begin="2.4899999999999984s"
+dur="0.05s"
+fill="freeze"
+from="0"
+to="1"/>
+</text>
+
+<text x="10" y="1028" opacity="0">
+@@@@@@@@@@@@@@@@@@*....``-*+-------::`..``:-`:---::--=====---=:.:+::+#*%@@@@@@@@@@@@@@@@@@
+<animate
+attributeName="opacity"
+begin="2.5199999999999982s"
+dur="0.05s"
+fill="freeze"
+from="0"
+to="1"/>
+</text>
+
+<text x="10" y="1040" opacity="0">
+@@@@@@@@@@@@@@@@@@#`..````-*++==--:-=+=`  .:`.`:-----======-::`.:+*`-++%@@@@@@@@@@@@@@@@@@
+<animate
+attributeName="opacity"
+begin="2.549999999999998s"
+dur="0.05s"
+fill="freeze"
+from="0"
+to="1"/>
+</text>
+
+<text x="10" y="1052" opacity="0">
+@@@@@@@@@@@@@@@@@@#:..``::`-***++=-`.`==. .::......:-=+====-:`..`-:`==#@@@@@@@@@@@@@@@@@@@
+<animate
+attributeName="opacity"
+begin="2.579999999999998s"
+dur="0.05s"
+fill="freeze"
+from="0"
+to="1"/>
+</text>
+
+<text x="10" y="1064" opacity="0">
+@@@@@@@@@@@@@@@@@@%:.```::-:-+***++=:..::  ::`...   `-++===-:`=:-:.-=*@@@@@@@@@@@@@@@@@@@@
+<animate
+attributeName="opacity"
+begin="2.6099999999999977s"
+dur="0.05s"
+fill="freeze"
+from="0"
+to="1"/>
+</text>
+
+<rect
+x="730"
+y="1068"
+width="8"
+height="12"
+fill="#39d353"
+class="cursor"/>
 </svg>
