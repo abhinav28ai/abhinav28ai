@@ -3,126 +3,113 @@
 
 ---
 
+# 📊 GitHub Activity
+
+<div align="center">
+
+---
+
 # 👨‍💻 About Me
 
-```bash
+```text
 > Name        : Abhinav Pandey
 > Role        : AI Engineer
 > University  : VIT
-> Interests   : AI • Full Stack • Machine Learning
+> Interests   : Artificial Intelligence
+                Full Stack Development
+                Machine Learning
+                System Design
+
 > Currently   : Building PulseWire
-> Learning    : AWS • Deep Learning • System Design
+> Learning    : AWS | Deep Learning | System Design
 ```
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Featured Project
 
 ## 🌍 PulseWire
 
-AI-powered News Platform featuring:
+AI-powered News Platform with Smart News Verification.
+
+### ✨ Features
 
 - 🔐 JWT Authentication
 - 📰 News Publishing
 - 🤖 AI News Verification
 - 📊 Dashboard
 - ☁️ Cloudinary Image Upload
-- 🍃 MongoDB Atlas
-
-**Tech Stack**
-
-```
-React • TypeScript • Node.js • Express • MongoDB • Gemini AI
-```
+- 🗄 MongoDB Atlas
+- ⚡ React + Vite
+- 🚀 Express.js API
 
 ---
 
-## 🧠 Medical AI Research
-
-Deep Learning models for:
-
-- Retinal Vessel Segmentation
-- Medical Image Analysis
-- Low-Light Image Enhancement
-
-**Tech Stack**
-
-```
-PyTorch • OpenCV • NumPy
-```
-
----
-
-## 🌾 Startup Projects
-
-Working on AI-powered platforms focused on:
-
-- Farmers
-- Workers
-
----
-
-# 🛠 Tech Stack
+# 💻 Tech Stack
 
 ### Languages
 
-- Java
-- Python
-- JavaScript
-- TypeScript
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,typescript"/>
+</p>
 
 ### Frontend
 
-- React
-- Vite
-- Tailwind CSS
+<p>
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css"/>
+</p>
 
 ### Backend
 
-- Node.js
-- Express.js
-- MongoDB
-- JWT
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase"/>
+</p>
 
 ### AI / ML
 
-- PyTorch
-- OpenCV
-- NumPy
-- Gemini AI
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+</p>
 
-### Cloud
+### Tools
 
-- AWS
-- Cloudinary
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux"/>
+</p>
 
 ---
 
 # 🏆 Achievements
 
-- 🥇 Oracle Java Certified
-- 🚀 Built PulseWire
-- 🤖 AI & Machine Learning Enthusiast
-- 💻 Full Stack Developer
+- 🥇 AI Hackathon Finalist
+- 🏆 Top 60 – IIT Bombay NEC
+- 🚀 Building AI-powered Products
+- 💡 Passionate about solving real-world problems using AI
 
 ---
 
-# 🎯 2026 Goals
+# 🌱 Currently Working On
 
-- ✅ Launch PulseWire
-- 🔄 Publish AI Research
-- 🔄 Earn AWS Certification
-- 🔄 Contribute to Open Source
-- 🔄 Build More AI Applications
+- 🌍 PulseWire
+- 🤖 AI News Detection
+- 🧠 Deep Learning Research
+- ☁️ AWS Cloud
+- ⚡ Full Stack Development
 
 ---
 
 # 📫 Connect With Me
 
-- GitHub: https://github.com/abhinav28ai
-
-*(Add your LinkedIn profile here later.)*
+<div align="center">
 
 ---
+
+<div align="center">
+
+---
+
+<div align="center">
+
+<div align="center">
 
 <div align="center">
