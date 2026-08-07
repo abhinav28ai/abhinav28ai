@@ -1,0 +1,66 @@
+from pathlib import Path
+
+svg = f"""
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="360">
+
+<rect width="520" height="360" rx="18" fill="#161b22"/>
+
+<style>
+text {{
+font-family: monospace;
+}}
+
+.fade {{
+animation: fade 1s forwards;
+opacity:0;
+}}
+
+@keyframes fade {{
+to {{
+opacity:1;
+}}
+}}
+</style>
+
+<text x="25" y="35" fill="#58a6ff" font-size="22">
+🖥 neofetch
+</text>
+
+<text class="fade" x="25" y="75" fill="white" font-size="18">
+👤 Name      : Abhinav Pandey
+</text>
+
+<text class="fade" x="25" y="105" fill="white" font-size="18">
+💼 Role      : AI Engineer
+</text>
+
+<text class="fade" x="25" y="135" fill="white" font-size="18">
+🌍 Country   : India
+</text>
+
+<text class="fade" x="25" y="165" fill="white" font-size="18">
+⚛ Stack     : React • Node • MongoDB
+</text>
+
+<text class="fade" x="25" y="195" fill="white" font-size="18">
+🤖 AI/ML     : PyTorch • OpenCV
+</text>
+
+<text class="fade" x="25" y="225" fill="white" font-size="18">
+☁ Cloud     : AWS
+</text>
+
+<text class="fade" x="25" y="255" fill="white" font-size="18">
+🏆 Oracle Java Certified
+</text>
+
+<text class="fade" x="25" y="285" fill="#39d353" font-size="18">
+🚀 Building PulseWire
+</text>
+
+</svg>
+"""
+
+Path("assets/info-card.svg").write_text(svg)
+
+print("info-card.svg generated!")
