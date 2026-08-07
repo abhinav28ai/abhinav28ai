@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="360" viewBox="0 0 500 360">
+
+<rect width="500" height="360" rx="15" fill="#161b22" stroke="#30363d"/>
+
+<text x="25" y="40" fill="#58a6ff" font-size="24" font-family="monospace">
+🖥 neofetch
+</text>
+
+<text x="25" y="80" fill="#ffffff" font-size="18" font-family="monospace">
+👤 Name      : Abhinav Pandey
+</text>
+
+<text x="25" y="110" fill="#ffffff" font-size="18" font-family="monospace">
+💼 Role      : AI Engineer
+</text>
+
+<text x="25" y="140" fill="#ffffff" font-size="18" font-family="monospace">
+🌍 Country   : India
+</text>
+
+<text x="25" y="170" fill="#ffffff" font-size="18" font-family="monospace">
+⚛ Stack     : React • Node • MongoDB
+</text>
+
+<text x="25" y="200" fill="#ffffff" font-size="18" font-family="monospace">
+🤖 AI/ML     : PyTorch • OpenCV
+</text>
+
+<text x="25" y="230" fill="#ffffff" font-size="18" font-family="monospace">
+☁ Cloud     : AWS
+</text>
+
+<text x="25" y="260" fill="#ffffff" font-size="18" font-family="monospace">
+🏆 Oracle Java Certified
+</text>
+
+<text x="25" y="290" fill="#ffffff" font-size="18" font-family="monospace">
+🚀 Building PulseWire
+</text>
+
+<text x="25" y="320" fill="#39d353" font-size="18" font-family="monospace">
+✔ Available for Projects
+</text>
+
+</svg>
