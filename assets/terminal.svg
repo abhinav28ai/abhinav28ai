@@ -1,101 +1,98 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220">
 
-<defs>
-  <linearGradient id="bg" x1="0" x2="1">
-    <stop offset="0%" stop-color="#0d1117"/>
-    <stop offset="100%" stop-color="#161b22"/>
-  </linearGradient>
+<style>
+.cursor{
+  animation:blink 1s infinite;
+}
+@keyframes blink{
+  50%{opacity:0;}
+}
+</style>
 
-  <linearGradient id="line" x1="0" x2="1">
-    <stop offset="0%" stop-color="#58a6ff"/>
-    <stop offset="100%" stop-color="#39d353"/>
-  </linearGradient>
-</defs>
-
-<rect width="900" height="220" rx="18" fill="url(#bg)"/>
-
-<!-- Window buttons -->
+<rect width="900" height="220" rx="18" fill="#0d1117"/>
 
 <circle cx="32" cy="28" r="8" fill="#ff5f56"/>
 <circle cx="58" cy="28" r="8" fill="#ffbd2e"/>
 <circle cx="84" cy="28" r="8" fill="#27c93f"/>
 
-<!-- Title -->
-
-<text x="450"
-      y="34"
-      text-anchor="middle"
-      fill="#8b949e"
-      font-size="16"
-      font-family="monospace">
-
+<text x="450" y="34"
+text-anchor="middle"
+fill="#8b949e"
+font-size="16"
+font-family="monospace">
 terminal
+</text>
+
+<text
+x="40"
+y="82"
+fill="#58a6ff"
+font-size="24"
+font-family="monospace">
+
+abhinav@github:~$ whoami
 
 </text>
 
-<!-- Prompt -->
-
-<text x="40"
-      y="82"
-      fill="#58a6ff"
-      font-size="24"
-      font-family="monospace">
-
-abhinav@github:~$
-
-</text>
-
-<!-- Command -->
-
-<text x="265"
-      y="82"
-      fill="#39d353"
-      font-size="24"
-      font-family="monospace">
-
-whoami
-
-</text>
-
-<!-- Output -->
-
-<text x="40"
-      y="128"
-      fill="#ffffff"
-      font-size="34"
-      font-family="monospace"
-      font-weight="bold">
+<text
+x="40"
+y="125"
+fill="#39d353"
+font-size="34"
+font-family="monospace">
 
 Abhinav Pandey
 
-</text>
-
-<text x="40"
-      y="162"
-      fill="#58a6ff"
-      font-size="20"
-      font-family="monospace">
-
-AI Engineer • Full Stack Developer • ML Researcher
+<animate
+attributeName="opacity"
+values="0;1"
+dur="1s"
+fill="freeze"/>
 
 </text>
 
-<text x="40"
-      y="192"
-      fill="#8b949e"
-      font-size="17"
-      font-family="monospace">
+<text
+x="40"
+y="165"
+fill="#ffffff"
+font-size="20"
+font-family="monospace">
 
-Building AI • React • Node.js • MongoDB • AWS • Gemini
+AI Engineer • Full Stack Developer
+
+<animate
+attributeName="opacity"
+values="0;1"
+begin="1s"
+dur="1s"
+fill="freeze"/>
+
+</text>
+
+<text
+x="40"
+y="195"
+fill="#8b949e"
+font-size="18"
+font-family="monospace">
+
+Building PulseWire...
+
+<animate
+attributeName="opacity"
+values="0;1"
+begin="2s"
+dur="1s"
+fill="freeze"/>
 
 </text>
 
 <rect
-    x="38"
-    y="205"
-    width="824"
-    height="3"
-    fill="url(#line)"
-/>
+x="240"
+y="182"
+width="12"
+height="20"
+fill="#39d353"
+class="cursor"/>
 
 </svg>
